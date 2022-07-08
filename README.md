@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OP-AT
 - 👀 I’m interested in everything that has code in it
-- 🌱 I’m currently learning python and AI
-- 💞️ I’m looking to collaborate on projects based on basic python, AI
+- 🌱 I’m currently learning python
 - 📫 How to reach me - u can always reach me at my mail- tshubh5238@gmail.com
 -                       or call me at - 6392303679
 -                                       7458947673
